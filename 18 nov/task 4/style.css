@@ -1,0 +1,25 @@
+/* Light Theme */
+.light-theme {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+/* Dark Theme */
+.dark-theme {
+  background-color: #222222;
+  color: #ffffff;
+}
+
+/* Button */
+button {
+  margin: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+/* Container */
+.container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid gray;
+}
