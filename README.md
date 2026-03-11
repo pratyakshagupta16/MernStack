@@ -45,32 +45,6 @@ The app allows users to securely log in, schedule medicines, and monitor their a
 * GitHub
 * Postman
 
----
-
-# 📂 Project Structure
-
-
-remedi
-│
-├── backend
-│   ├── src
-│   │   ├── controllers
-│   │   ├── models
-│   │   ├── routes
-│   │   ├── middleware
-│   │   └── index.js
-│   │
-│   └── package.json
-│
-├── frontend
-│   ├── src
-│   │   ├── components
-│   │   ├── api
-│   │   └── App.jsx
-│   │
-│   └── package.json
-│
-└── README.md
 
 
 ---
